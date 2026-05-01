@@ -48,3 +48,4 @@ streamlit run app.py
 Dataset sourced from Kaggle — Online Retail / Customer Transaction Data
 
 ## 👩‍💻 Author
+Mythili Pandiyarajan __[GitHub Profile](https://github.com/Mythili-Pandiyarajan)__
