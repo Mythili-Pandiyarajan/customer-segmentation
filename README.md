@@ -3,7 +3,8 @@ An end-to-end Machine Learning project to segment customers
 using RFM Analysis and K-Means Clustering.
 
 ## 🚀 Live Demo
-- 🎯 Streamlit: https://your-app-name.streamlit.app/
+- 🎯 Streamlit: https://customer-segmentation-prediction-mythili.streamlit.app/
+- 🤗 HuggingFace: https://huggingface.co/spaces/Mythili-Pandiyarajan/customer-segmentation
 
 ## 🔍 Project Overview
 This project uses RFM (Recency, Frequency, Monetary) analysis
